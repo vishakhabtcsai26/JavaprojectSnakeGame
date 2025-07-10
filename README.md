@@ -14,6 +14,9 @@ This game is perfect for learning Java GUI, object-oriented programming, and gam
 🎮 Keyboard-controlled fun (arrow keys ⬅️⬆️➡️⬇️)
 
 ---
+Check out my Java-based Snake Game with live demo here:
+
+👉 [Play Snake Game](https://vishakhabtcsai26.github.io/JavaprojectSnakeGame/)
 
 ## 🛠️ Tech Stack
 
