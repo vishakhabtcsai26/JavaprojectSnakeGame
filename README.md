@@ -17,6 +17,16 @@ This game is perfect for learning Java GUI, object-oriented programming, and gam
 Check out my Java-based Snake Game with live demo here:
 
 👉 [Play Snake Game](https://vishakhabtcsai26.github.io/JavaprojectSnakeGame/)
+<img width="979" height="785" alt="image" src="https://github.com/user-attachments/assets/c4350151-d0de-4a83-be52-15e4dce356ed" />
+
+<img width="1001" height="771" alt="image" src="https://github.com/user-attachments/assets/1904efc0-ab61-4d2a-841b-3b0e665e83e2" />
+
+<img width="992" height="748" alt="image" src="https://github.com/user-attachments/assets/352bfb80-7c38-449c-a9c2-43530810233b" />
+
+
+
+<img width="985" height="743" alt="image" src="https://github.com/user-attachments/assets/8ad37f34-573e-4adb-99a3-2bd5c32c82d3" />
+
 
 ## 🛠️ Tech Stack
 
